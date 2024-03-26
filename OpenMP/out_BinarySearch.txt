@@ -1,0 +1,5 @@
+Generating random elements...
+
+Randomly selected key: 4381
+Key found at index 2635
+Total execution time: 0.016037 seconds
